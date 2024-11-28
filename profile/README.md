@@ -20,7 +20,7 @@
   * macOS 15, macOS 12.3, iOS 18, iOS 16, iOS 15.6, iOS 14.8, watchOS 11, watchOS 9 测试通过
   * 如无特别声明，均适用于iOS/iPadOS/macOS/watchOS，模块间互无依赖，均可单独或搭配使用
   * 需要启用`重写`、`脚本`、`MitM（HTTPS解密）`功能
-  * 本项目可视化配置面板订阅及使用方法详见[🧰 BoxJs](../../../../BoxJs/wiki)
+  * 本项目可视化配置面板订阅及使用方法详见[🧰 BoxJs](https://BoxJs.BiliUniverse.io)
   * 点击下方链接直达详细说明
   * 手机等竖屏设备可以👈左右👉划动下列表格查看更多模块
 
